@@ -1,1 +1,1 @@
-# korektor-ai.github.io
+# korektor-ai
